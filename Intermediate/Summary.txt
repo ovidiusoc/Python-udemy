@@ -1,0 +1,17 @@
+day16->		OOP
+day17->	 	OOP
+day18->		Turtle GUI
+day19->		Turtle (Interfaces, state and highrt otder functions)
+day20->		Snake game pt1
+day21->		Snake game pt2
+day22->		Pong game
+day23->		Turtle crossing road game
+day24->		FIles, Directories, paths
+day25->		Pandas and CSV
+day26->		List comprehension
+day27->		Tkinter, *args, **kwargs and Creating GUI Programs
+day28->		Tkinter, Dynamic Typing and the Pomodoro GUI Application
+day29->		Building a Password Manager GUI App with Tkinter
+day30->		Errors, Exceptions and JSON Data: Improving the Password
+day31->		Flash Card App Capstone Project
+

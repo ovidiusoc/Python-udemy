@@ -1,10 +1,10 @@
 import requests
 from datetime import datetime
 
-NUTRITION_PASSWORD = "SOCnutr1x%"
+NUTRITION_PASSWORD = ""
 
-NUTRIX_ID = "77b25680"
-NUTRIX_KEY = "e377caf1798d85dcebffcf1806c0e04e"
+NUTRIX_ID = ""
+NUTRIX_KEY = ""
 NUTRIX_ENDPOINT = "http://trackapi.nutritionix.com"
 SHETTY_ENDPOINT = "https://api.sheety.co/feee438b476315d063792bc36fccdd9a/workoutTracking/workouts"
 
@@ -30,8 +30,7 @@ workout_data = response.json()
 
 
 ###################### Connection with the sheet API ######################
-# username OvidiuSuciu
-# parola P@ssw0rd
+
 
 
 # get data records from the sheet
@@ -65,11 +64,11 @@ sheet_response = requests.post(
   SHETTY_ENDPOINT,
   json=sheet_inputs,
   auth=(
-      "OvidiuSuciu",
-      "P@ssw0rd",
+      "",
+      "",
   )
 )
-YOUR_TOKEN = "T3ZpZGl1U3VjaXU6UEBzc3cwcmQ="
+YOUR_TOKEN = ""
 #Bearer Token Authentication
 bearer_headers = {
 "Authorization": f"Bearer {YOUR_TOKEN}"

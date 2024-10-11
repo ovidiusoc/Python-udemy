@@ -6,7 +6,7 @@ GRAPHID = "graph1"
 pixela_endpoint = "https://pixe.la/v1/users"
 
 user_params = {
-    "token": "anj4w4nana4",
+    "token": "",
     "username": USERNAME,
     "agreeTermsOfService": "yes",
     "notMinor": "yes",

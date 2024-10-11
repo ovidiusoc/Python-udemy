@@ -5,7 +5,7 @@ import time
 from twilio.rest import Client
 
 
-API_KEY = "9ac78bc7dc3594b787a12c68c12d0bce"
+API_KEY = ""
 MY_LAT = 46.770920
 MY_LON = 23.589920
 account_sid = ""

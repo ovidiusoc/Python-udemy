@@ -4,9 +4,6 @@ import os
 from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
 
-# cb70b11bd99b4d99a3b8a4b5b9b3c78e
-
-# Che13@pi
 
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
@@ -16,8 +13,8 @@ account_sid = ""
 auth_token = os.environ.get("AUTH_TOKEN")
 # stock_apikey = os.environ.get("STOCK_APIKEY")
 # news_apikey = os.environ.get('NEWS_APIKEY')
-stock_apikey = "EJTJJRT1662O3JO3"
-news_apikey = "cb70b11bd99b4d99a3b8a4b5b9b3c78e"
+stock_apikey = ""
+news_apikey = ""
 
 
 params = {
